@@ -1,7 +1,7 @@
 
 <!-- BANNER ESPACIAL -->
 <p align="center">
-  <img src="./Designer (1).JPG"
+  <img src="./Designer (1).jpg"
        width="100%" alt="Pixel art espacial"/>
 </p>
 
