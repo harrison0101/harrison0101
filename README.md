@@ -1,7 +1,7 @@
 
 <!-- BANNER ESPACIAL -->
 <p align="center">
-  <img src="./harrison_pixel_space_banner.png"
+  <img src="./Designer (1)"
        width="100%" alt="Pixel art espacial"/>
 </p>
 
