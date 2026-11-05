@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá! Eu sou Harrison Fausto 👋
 
-<!--
-**harrison0101/harrison0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analytics | Business Intelligence | People Analytics
 
-Here are some ideas to get you started:
+Estudante de Engenharia da Computação, com experiência em análise de dados, BI e People Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu objetivo é transformar dados em informações estratégicas para apoiar decisões e melhorar processos.
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+- **Análise de Dados:** Python, SQL, Excel
+- **Business Intelligence:** Power BI, DAX, Power Query
+- **Banco de Dados:** SQL, SQLite
+- **Outros:** Git, GitHub, Google Sheets
+
+### 📊 Projetos em destaque
+
+- Análise de Dados — Superstore
+- Planejamento de Sistemas Fotovoltaicos com Dados Climáticos
+- Projetos de automação e análise de dados
+
+### 🎯 Atualmente estudando
+
+- Data Analytics
+- Engenharia de Dados
+- Machine Learning
+- Business Intelligence
+
+### 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/harrisonfausto/)
